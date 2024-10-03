@@ -1,3 +1,3 @@
-# Iam leqarnm from chai our code
+# Iam learn from chai our code
 
 ## Install
